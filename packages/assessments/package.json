@@ -3,7 +3,7 @@
   "version": "0.0.9",
   "description": "",
   "main": "./dist/index.js",
-  "source": true,
+  "source": "index.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.js",
