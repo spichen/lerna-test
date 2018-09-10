@@ -6,6 +6,8 @@
   "source": true,
   "scripts": {
     "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "prepublish": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
