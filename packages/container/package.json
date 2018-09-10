@@ -1,6 +1,6 @@
 {
   "name": "container",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "private": true,
@@ -9,11 +9,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "assessments": "^0.0.3",
+    "assessments": "^0.0.4",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-router-dom": "^4.3.1",
-    "word-bank": "^0.0.3"
+    "word-bank": "^0.0.4"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
