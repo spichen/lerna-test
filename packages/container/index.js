@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom';
 
 const App = () => (
     <div>
-        <Assessments />
+        <Assessments name="Alef Education" />
         <WordBank />
     </div>
 );

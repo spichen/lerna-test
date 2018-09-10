@@ -1,9 +1,9 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 
-const Assessments = () => (
+const Assessments = props => (
     <div>
-        <h1>Assessments ! ! ! ! ! 4</h1>
+        <h1>Assessments ! ! !</h1>
+        <p>{props.name}</p>
     </div>
 );
 
