@@ -2,11 +2,11 @@
   "name": "assessments",
   "version": "0.0.8",
   "description": "",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "source": true,
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html",
+    "build": "parcel build index.js",
     "prepublish": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

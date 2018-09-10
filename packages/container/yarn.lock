@@ -210,9 +210,9 @@ assert@^1.1.1:
   dependencies:
     util "0.10.3"
 
-assessments@^0.0.7:
-  version "0.0.7"
-  resolved "http://localhost:4873/assessments/-/assessments-0.0.7.tgz#7268b2000c49842edbfd2b8907685e39e4ac4c6b"
+assessments@^0.0.8:
+  version "0.0.8"
+  resolved "http://localhost:4873/assessments/-/assessments-0.0.8.tgz#0e04c9f0ade94c5519670d37d08bedb627b36537"
   dependencies:
     react "^16.4.2"
     react-dom "^16.4.2"
@@ -4849,9 +4849,9 @@ wide-align@^1.1.0:
   dependencies:
     string-width "^1.0.2 || 2"
 
-word-bank@^0.0.7:
-  version "0.0.7"
-  resolved "http://localhost:4873/word-bank/-/word-bank-0.0.7.tgz#a98eb2e5b5d74b24e087a1bc530b80dbbd02bf91"
+word-bank@^0.0.8:
+  version "0.0.8"
+  resolved "http://localhost:4873/word-bank/-/word-bank-0.0.8.tgz#d5947a2cec6127d72faeff921e2d453e952fc484"
   dependencies:
     react "^16.4.2"
     react-dom "^16.4.2"
